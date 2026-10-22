@@ -61,4 +61,3 @@ while True:
  
     else:
         print("❌ Opção inválida!")
-has context menu
